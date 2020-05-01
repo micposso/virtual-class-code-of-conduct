@@ -1,6 +1,6 @@
 # Virtual Class Code of Conduct
 ---
-This code of conduct is a collaborative document intended to be used by educators and organizations that are conducting online learnig classes using live communication tools, such Zoom, Google Hangouts, UberConference, Microsoft Teams, Slack etc.
+This code of conduct is a collaborative document intended to be used by educators and organizations that are conducting online learnig programs using live communication tools, such Zoom, Google Hangouts, UberConference, Microsoft Teams, Slack etc.
 
 This code of conduct covers privacy, etiquete, technology use, hardware requirements and class behavior guidelines.
 
@@ -15,38 +15,32 @@ Before implementing this code of coduct, consult with your organization legal de
 
 ### Online Media, Software and Apps
 
-* Usage of online discussion forums, chat or file storage system.
+Before using or recomending any app, students, parents and instructors should be aware of the app privacy policy and device permissions. 
+
 
 ### Video Conference Etiquete
 
-* Students are expected to be in presentable attire
-* Recomended room environment
-* Home privacy recommendations
+* personal presentation
+* recomended room environment
+* home privacy recommendations
 * Privacy recommendations
 
 ## Digital Materials
 
-* Digital Plagiarism
-* Copyrights and graphical assets
-
-## Video Conferencing Hardware Recommendations
-
-* Minimal required hardware to allow for desktop video streaming
-* Minimal required hardware to allow for mobile video streaming
-* Supported browsers. 
+attributes
+copyrights
 
 ### Privacy
 
-* Privacy of video application
-* Privacy of learning platforms
-* Sharing of screenshots or class material on social media
+* privacy of video application
+* privacy of learnign platforms
+* sharing of video and social media
 
+### Conduct during live sessions
 
-### Conduct During Live Sessions
-
-* Attire and personal appearance
-* Room settings
-* Protecting your home privacy
+attire and personal appearance
+room settings
+protecting your home privacy
 
 ## License
 
@@ -57,26 +51,25 @@ Before implementing this code of coduct, consult with your organization legal de
 
 ### Editing
 
-Please submit a pull request via git. This document is written in Markdown. To learn about markdown click [here](https://daringfireball.net/projects/markdown/syntax#link): 
+Please submit a pull request via git.
 
 ### Language support
 
-Please read the "Using Git to Contribute" sections to make edits to this repository and add your language file.
+Please fork the repository and add your language file. Currently we need help translating the document into the following languages:
 
-Currently we need help translating the document into the following languages:
-
-- French
-- Italian
-- Portuguese
+French
+Italian
+Spanish (Castillian)
+Catalan
+Romanian
 
 When updates to the main document in English, you will recieve a notification to update the translation.
 
-### Using Git to Contribute
+### Using Git t contribute
 
 1. Fork the codebase e.g. to https://github.com/micposso/virtual-class-code-of-conduct
 1. Clone your fork locally (`https://github.com/micposso/virtual-class-code-of-conduct.git`)
 1. Create a branch to hold your changes (`git checkout -b my-changes`)
-1. Edit the README.md file or add a new file to the LANG directory with the following naming (`virtual-class-code-of-conduct-[LANG].md`)
 1. Commit the changes you've made (`git commit -am "Some descriptive text around
 what you've added"`)
 1. Push your branch to github (`git push origin my-changes`)
