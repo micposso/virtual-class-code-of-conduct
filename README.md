@@ -7,6 +7,7 @@ This code of conduct covers privacy, etiquette, technology use, hardware require
 It is recommended that teachers and organizations provide a code of conduct before engaging in any live interactive learning channels.
 
 ***Before implementing this code of conduct, consult with your organization's legal department. Any guidelines or recommendations on this code of conduct should not violate any of your students' rights or organization's and local government legal guidelines.***
+
 ---
 
 # Virtual Class Code of Conduct.
