@@ -19,7 +19,6 @@ It is recommended that teachers and organizations provide a code of conduct befo
 #### General Guidelines
 
 * Communication guidelines
-* 
 
 #### Email Guidelines
 
