@@ -14,6 +14,19 @@ It is recommended that teachers and organizations provide a code of conduct befo
 > insert your name, school or organization here
 ---
 
+## General Communication Guidelines
+
+#### General Guidelines
+
+* Communication guidelines
+* 
+
+#### Email Guidelines
+
+* Font usage
+* Addresing the teacher and other classmates
+* Attachements and file sharing
+
 ## Student Responsabilities
 
 #### Time Standards
@@ -52,6 +65,13 @@ It is recommended that teachers and organizations provide a code of conduct befo
 * Recommended room environment
 * Home privacy recommendations
 * Privacy recommendations
+
+#### Video Conferencing Best Practices
+
+* Passwords and logins
+* Loggin out after a session
+* Using the MUTE button
+* Protecting your personal content
 
 ## Digital Privacy
 
