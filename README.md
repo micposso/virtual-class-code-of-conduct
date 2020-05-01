@@ -63,7 +63,7 @@ Please submit a pull request via git. This document is written in Markdown. To l
 
 Please read the "Using Git to Contribute" sections to make edits to this repository and add your language file.
 
-Currently we need help translating the document into the following languages:
+Currently, we need help translating the document into the following languages:
 
 - French
 - Italian
