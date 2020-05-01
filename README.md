@@ -13,53 +13,66 @@ Before implementing this code of conduct, consult with your organization's legal
 > insert your name, school or organization here
 ---
 
+## Student Responsabilities
+---
+
+### Time Standards
+* On time attendance
+* Usage of time standard for deadlines and assignments
+
 ### Online Media, Software and Apps
+---
+
+#### Digital Materials
+
+* Digital Plagiarism
+* Usage of graphical assets
+* Usage of videos shared during the class
+
+#### School Issued Electronic Devices Usage
+
+* Usage guidelines
+* Maintenance guidelines
+* Responsibilities and liabilities
+
+#### Online Participation Etiquette
 
 * Usage of online discussion forums, chat or file storage system.
 
-### Video Conference Etiquette
+## Video Conference 
+---
+### Video Conferencing Hardware Recommendations
 
-* Students are expected to be in presentable attire
+* Minimal required hardware to allow for desktop video streaming
+* Minimal required hardware to allow for mobile video streaming
+* Supported browsers
+
+#### Video Conference Etiquette
+
+* Recommended attire
 * Recommended room environment
 * Home privacy recommendations
 * Privacy recommendations
 
-## Digital Materials
-
-* Digital Plagiarism
-* Copyrights and graphical assets
-
-## Video Conferencing Hardware Recommendations
-
-* Minimal required hardware to allow for desktop video streaming
-* Minimal required hardware to allow for mobile video streaming
-* Supported browsers. 
-
-### Privacy
+#### Digital Privacy
 
 * Privacy of video application
 * Privacy of learning platforms
 * Sharing of screenshots or class material on social media
 
-
-### Conduct During Live Sessions
-
-* Attire and personal appearance
-* Room settings
-* Protecting your home privacy
+---
 
 ## License
 
 [![CC0](http://i.creativecommons.org/p/zero/1.0/80x15.png) Licensed under CC0](http://creativecommons.org/publicdomain/zero/1.0
 
 ## Contribute
----
 
-### Editing
+#### Editing
 
 Please submit a pull request via git. This document is written in Markdown. To learn about markdown click [here](https://daringfireball.net/projects/markdown/syntax#link): 
 
-### Language support
+#### Language support
 
 Please read the "Using Git to Contribute" sections to make edits to this repository and add your language file.
 
