@@ -15,14 +15,12 @@ It is recommended that teachers and organizations provide a code of conduct befo
 ---
 
 ## Student Responsabilities
----
 
-### Time Standards
+#### Time Standards
 * On time attendance
 * Usage of time standard for deadlines and assignments
 
-### Online Media, Software and Apps
----
+## Online Media, Software and Apps
 
 #### Digital Materials
 
@@ -41,8 +39,8 @@ It is recommended that teachers and organizations provide a code of conduct befo
 * Usage of online discussion forums, chat or file storage system.
 
 ## Video Conference 
----
-### Video Conferencing Hardware Recommendations
+
+#### Video Conferencing Hardware Recommendations
 
 * Minimal required hardware to allow for desktop video streaming
 * Minimal required hardware to allow for mobile video streaming
@@ -55,7 +53,7 @@ It is recommended that teachers and organizations provide a code of conduct befo
 * Home privacy recommendations
 * Privacy recommendations
 
-#### Digital Privacy
+## Digital Privacy
 
 * Privacy of video application
 * Privacy of learning platforms
