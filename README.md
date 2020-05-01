@@ -1,5 +1,5 @@
 # Virtual Class Code of Conduct Template
----
+
 This code of conduct is a collaborative document intended to be used by educators and organizations that are conducting online learning classes using live communication tools, such Zoom, Google Hangouts, UberConference, Microsoft Teams, Slack etc.
 
 This code of conduct covers privacy, etiquette, technology use, hardware requirements, and class behavior guidelines.
