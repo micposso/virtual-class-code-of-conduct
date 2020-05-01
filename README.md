@@ -39,6 +39,8 @@ It is recommended that teachers and organizations provide a code of conduct befo
 * Digital Plagiarism
 * Usage of graphical assets
 * Usage of videos shared during the class
+* Using digital assets outside the class room
+* Using copyrighted digital materials
 
 #### School Issued Electronic Devices Usage
 
@@ -71,12 +73,37 @@ It is recommended that teachers and organizations provide a code of conduct befo
 * Loggin out after a session
 * Using the MUTE button
 * Protecting your personal content
+* Using headsets
 
 ## Digital Privacy
 
 * Privacy of video application
 * Privacy of learning platforms
 * Sharing of screenshots or class material on social media
+
+## Usage of Virtual Reality Devices
+
+#### Hardware Requirements
+
+* Recommended room environment
+* Home privacy recommendations
+* Privacy recommendations
+* Microphone recommendation
+* Audio recommendations
+
+#### Avatar Guidelines
+
+* Recommended guidelines for avatar creation
+
+#### Using Digital Assets in Virtual Environments
+
+* Using copyrighted digital materials
+
+## Virtual Reality Software Privacy
+
+* Sharing or broadcasting class or class content on social media
+* Connected social media accounts
+* Usage of personal accounts
 
 ---
 
