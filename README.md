@@ -114,8 +114,7 @@ It is recommended that teachers and organizations provide a code of conduct befo
 ---
 
 ## License
-
-[![CC0](http://i.creativecommons.org/p/zero/1.0/80x15.png) Licensed under CC0](http://creativecommons.org/publicdomain/zero/1.0
+[<img src="http://i.creativecommons.org/p/zero/1.0/80x15.png">](http://creativecommons.org/publicdomain/zero/1.0)
 
 ## Contribute
 
