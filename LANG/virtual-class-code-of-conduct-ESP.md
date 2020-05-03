@@ -1,79 +1,113 @@
-# Virtual Class Code of Conduct
----
-This code of conduct is a collaborative document intended to be used by educators and organizations that are conducting online learnig programs using live communication tools, such Zoom, Google Hangouts, UberConference, Microsoft Teams, Slack etc.
+# Plantilla de Código de Conducta Estudiantil Para Clases Virtuales
 
-This code of conduct covers privacy, etiquete, technology use, hardware requirements and class behavior guidelines.
+Este manual de conducta es un documento colaborativo destinado a ser utilizado por educadores y organizaciones que imparten clases de aprendizaje en línea utilizando herramientas de comunicación en vivo, como Zoom, Hangouts de Google, UberConference, Microsoft Teams, Slack, etc.
 
-Is recommended that teachers and organizations provide a code of conduct prior to engaging in any live interactive learnign channels.
+Este código de conducta cubre privacidad, etiqueta, uso de tecnología, requisitos de hardware y pautas de comportamiento de clase.
 
-Before implementing this code of coduct, consult with your organization legal department. Any guidelines or recommendations on this code of conduct should not violate any of your students rights or organization's and local goverment legal guidelines.
+Se recomienda que los maestros y las organizaciones proporcionen un código de conducta antes de participar en cualquier canal de aprendizaje interactivo en vivo.
 
----
-# Virtual Class Code of Conduct.
-> insert your name, school or organization here
+***Antes de implementar este código de conducta, consulte con el departamento legal de su organización. Las pautas o recomendaciones sobre este código de conducta no deben violar ninguno de los derechos de sus estudiantes o las pautas legales de la organización y del gobierno local.***
+
 ---
 
-### Online Media, Software and Apps
-
-Before using or recomending any app, students, parents and instructors should be aware of the app privacy policy and device permissions. 
-
-
-### Video Conference Etiquete
-
-* personal presentation
-* recomended room environment
-* home privacy recommendations
-* Privacy recommendations
-
-## Digital Materials
-
-attributes
-copyrights
-
-### Privacy
-
-* privacy of video application
-* privacy of learnign platforms
-* sharing of video and social media
-
-### Conduct during live sessions
-
-attire and personal appearance
-room settings
-protecting your home privacy
-
-## License
-
-[![CC0](http://i.creativecommons.org/p/zero/1.0/80x15.png) Licensed under CC0](http://creativecommons.org/publicdomain/zero/1.0
-
-## Contribute
+# Código de Conducta Estudiantil Para Clases Virtuales.
+> inserte su nombre, escuela u organización aquí
 ---
 
-### Editing
+## Pautas generales de comunicación
 
-Please submit a pull request via git.
+#### Pautas generales
 
-### Language support
+* Pautas de comunicación
+* Uso de nombres de cuentas y de usuario
 
-Please fork the repository and add your language file. Currently we need help translating the document into the following languages:
+#### Pautas de correo electrónico
 
-French
-Italian
-Spanish (Castillian)
-Catalan
-Romanian
+* Uso de la fuente de texto
+* Dirigiéndose al maestro y a otros compañeros de clase.
+* Attachements and file sharing
 
-When updates to the main document in English, you will recieve a notification to update the translation.
+## Responsabilidades del alumno
 
-### Using Git t contribute
+#### Estándares de tiempo
 
-1. Fork the codebase e.g. to https://github.com/micposso/virtual-class-code-of-conduct
-1. Clone your fork locally (`https://github.com/micposso/virtual-class-code-of-conduct.git`)
-1. Create a branch to hold your changes (`git checkout -b my-changes`)
-1. Commit the changes you've made (`git commit -am "Some descriptive text around
-what you've added"`)
-1. Push your branch to github (`git push origin my-changes`)
-1. Create a pull request e.g. at https://github.com/micposso/virtual-class-code-of-conduct.git
+* Asistencia a tiempo
+* Uso del tiempo estándar para plazos y tareas
 
+## Graphicos digitales, programas y aplicaciones mobiles
 
+#### Materiales digitales
 
+* Plagio digital
+* Uso de materiales gráficos
+* Uso de videos compartidos durante la clase
+* Uso de materiales digitales fuera del aula
+* Uso de materiales digitales con derechos de autor
+
+#### Uso de dispositivos electrónicos emitidos por la escuela
+
+* Pautas de uso
+* Pautas de mantenimiento
+* Responsabilidades y responsabilidades
+
+#### Etiqueta de participación en línea
+
+* Uso de foros de discusión en línea, chat o sistema de almacenamiento de archivos.
+
+## Video conferencia
+
+#### Recomendaciones de hardware para videoconferencias
+
+* Hardware mínimo requerido para permitir la transmisión de video de escritorio
+* Hardware mínimo requerido para permitir la transmisión de video móvil
+* Navegadores compatibles
+
+#### Etiqueta de videoconferencia
+
+* Vestimenta recomendada
+* Ambiente de habitación recomendado
+* Recomendaciones de privacidad en el hogar
+* Recomendaciones de privacidad
+
+#### Mejores prácticas de videoconferencia
+
+* Contraseñas e inicios de sesión
+* Cerrar sesión después de una sesión
+* Usando el botón MUTE
+* Proteger tu contenido personal
+* Usando auriculares
+
+## Privacidad digital
+
+* Privacidad de la aplicación de video
+* Privacidad de las plataformas de aprendizaje.
+* Compartir capturas de pantalla o material de clase en las redes sociales
+
+## Uso de dispositivos de realidad virtual
+
+#### Requisitos de hardware
+
+* Ambiente de habitación recomendado
+* Recomendaciones de privacidad en el hogar
+* Recomendaciones de privacidad
+* Recomendación de micrófono
+* Recomendaciones de audio
+
+#### Directrices de entorno de sala virtual
+
+* Mostrar afiliaciones políticas o religiosas personales
+* Estándares de accesibilidad para salas virtuales
+
+#### Pautas de avatar
+
+* Pautas recomendadas para la creación de avatar
+
+#### Uso de activos digitales en entornos virtuales
+
+* Uso de materiales digitales con derechos de autor
+
+## Privacidad del software de realidad virtual
+
+* Compartir o transmitir contenido de clase o clase en las redes sociales
+* Cuentas de redes sociales conectadas
+* Uso de cuentas personales

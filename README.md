@@ -19,6 +19,7 @@ It is recommended that teachers and organizations provide a code of conduct befo
 #### General Guidelines
 
 * Communication guidelines
+* Use of user names, nicknames or digital accounts
 
 #### Email Guidelines
 
@@ -90,6 +91,11 @@ It is recommended that teachers and organizations provide a code of conduct befo
 * Privacy recommendations
 * Microphone recommendation
 * Audio recommendations
+
+#### Virtual Room Environment Guidelines
+
+* Displaying personal political or religious affiliations
+* Accessibility standards for virtual rooms 
 
 #### Avatar Guidelines
 
