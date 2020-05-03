@@ -110,38 +110,3 @@ It is recommended that teachers and organizations provide a code of conduct befo
 * Sharing or broadcasting class or class content on social media
 * Connected social media accounts
 * Usage of personal accounts
-
----
-
-## License
-
-[![CC0](http://i.creativecommons.org/p/zero/1.0/80x15.png) Licensed under CC0](http://creativecommons.org/publicdomain/zero/1.0
-
-## Contribute
-
-#### Editing
-
-Please submit a pull request via git. This document is written in Markdown. To learn about markdown click [here](https://daringfireball.net/projects/markdown/syntax#link): 
-
-#### Language support
-
-Please read the "Using Git to Contribute" sections to make edits to this repository and add your language file.
-
-Currently, we need help translating the document into the following languages:
-
-- French
-- Italian
-- Portuguese
-
-When updates to the main document in English, you will receive a notification to update the translation.
-
-### Using Git to Contribute
-
-1. Fork the codebase e.g. to https://github.com/micposso/virtual-class-code-of-conduct
-1. Clone your fork locally (`https://github.com/micposso/virtual-class-code-of-conduct.git`)
-1. Create a branch to hold your changes (`git checkout -b my-changes`)
-1. Edit the README.md file or add a new file to the LANG directory with the following naming (`virtual-class-code-of-conduct-[LANG].md`)
-1. Commit the changes you've made (`git commit -am "Some descriptive text around
-what you've added"`)
-1. Push your branch to GitHub (`git push origin my-changes`)
-1. Create a pull request e.g. at https://github.com/micposso/virtual-class-code-of-conduct.git
